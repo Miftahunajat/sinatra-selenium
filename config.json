@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "certain-perigee-233419",
+  "private_key_id": "7c586d26af9db53c80504134fb3e68c52933e2ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXdW9vGNwY18QA\nJcFGpye8KJ4pPPpV09+vDQQy5MXvlf+vmkC2dj1OCGiuPuCMgsWmbRE+8kfdcxEh\nxy7xKIOb8533z9cb3NGgwEaF/v+aKc7JQUntHBZvHtWzWBFxm2m3e+6F5h+s070C\nNRv8I0tyyOYkjQMc9Be5oSkgDS8hndK4IxGeGGw+PdZM4n5xiXPH9X7Vtr/VDTrd\nVC5uwV6VRtiFZvM7+og2uYIUf3w8WZS2B7eRe1Nlrabd06o2WVKMrXishaSx4hhH\n1iKTI2riPOlHqaMhOlOExxuuSo5xtwrI8Bpa++uXNJHki0y8+o9TBDT4MsNiV+rD\nHXl+7r9jAgMBAAECggEABP00+d3xa9Tl823D9Z7yKPFdaoUzCCQ5Ef99MFKBdofQ\neA+SQu/IWSesUvkDtOMgvilfl/2gtWJEfTXt7l3MZ2zvsgqOJ60J+59wmIN2O8kI\nNNzft8A/xvL9pzv8v9bkC2WcqF1ZqdbELNmECCPqc/7aPMnazq2yE+SPU4RvsJzw\nVvgX25aUH4aiw72+mBSw5H4QP3I0wF3zaz4SHe4CAzCiYUUH9+te6Zo/xDY7eH77\n86XFmlv/P01WHTTfzJlVN4CGMY869D89pyQ8ey1WvH42a8WGbHYHFV5qd51Yypf0\n+FS5LAeVcPqY5aFelFlKasDcE2dwmzbuXilKxGLJJQKBgQD7rX5ijwZXGTIVOZIL\neIFIdYQkPlthtqHFVIVOkxbCUEeO5OEuWTw/aPrwYqvn48s57VvS+FIF2c/ANAkc\nIU6dZFwbcEnLW+LRQJS3e8yntG3JDdZWXcpbcacUp7U1Ra/NlmeQsBLT2Vq4y1RO\ncsbuyKaT6SXNuxTJ7IzFUKr2HQKBgQDbKLRAIW7wW0SbnqqKgPjpVjJsC3zFX4BB\n++OqRXyaQ9346jiA0VQYFSiTGX9JZQCnGFdM126YbS+mtUp7FQhpnGwNHUYVaqIy\nu+m7D8l4ZGGDKZCElLINtP/IElI2EBlM9ihXrbjKFWVdT4rMVVSlYpwVR3CujMw8\nIOn7IDyTfwKBgQDMhQNEgmerldz+JIeK7MVapazZaxcFg81YN0QRQzRmeah89YAM\nExYDjYMGn5iE27dFfp51BbhZ6tOJpH+WrXZeLrUu0wQUzrm2RB3WMTNxQQ1KKgV4\nr8UGpIgbH+IAxX2Euum0SXEzWNkBfLIpAdqpJsM/RWKkGZheMu1+Vvxm/QKBgQCu\nKVW9FRSle9I03U1nzgCA5dgiFqrr6u3xAey1lozjxwUyV2fZrwBmNwJMi9mkiNiQ\n8X4G+bjQ9wwELlPnJhrOWtlfPqFAScJmEQE4f946h4MaicBoLAanb+xIoY6lmfuR\nNpluvAZ6ybAJDDogEbu3xnqFSoWYoRl4uytWPxMEnwKBgAOpUk/juBlTfunuOUcW\nIZzmfQrvDbwFJKfBWuRlwodiV2RKOf2y8h6DWFfhJCCnwC3GA/EBeODcagzay+Xo\nex0aBHGYJ+/0q1H1lYs/bR8BjuzQMM5rtWTRC8wS7k0/UW0o6sfrC3IcFEpuT4fE\nYM1TfR4lzk/e0ahR1Sb2S/Ce\n-----END PRIVATE KEY-----\n",
+  "client_email": "autofill-logbook@certain-perigee-233419.iam.gserviceaccount.com",
+  "client_id": "112342581183220693883",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autofill-logbook%40certain-perigee-233419.iam.gserviceaccount.com"
+}
