@@ -86,7 +86,7 @@ class Shopee
       link: current_url,
       status: "SUCCESS"
     }
-    Faraday.put('https://98381ca9.ngrok.io/associatied_accounts/' + @ac_id) do |req|
+    Faraday.put('https://mooka-api.appspot.com/associatied_accounts/' + @ac_id) do |req|
       req.headers['Content-Type'] = 'application/x-www-form-urlencoded'
       req.body = URI.encode_www_form(data)
     end

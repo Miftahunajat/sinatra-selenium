@@ -82,7 +82,7 @@ class Tokped
     retry_max = 20
     $i = 0
     otp = 0
-    url = 'https://98381ca9.ngrok.io/associatied_accounts/' + @ac_id
+    url = 'https://mooka-api.appspot.com/associatied_accounts/' + @ac_id
     while $i < retry_max  do
       resp = Faraday.get(url)
       if (!resp.body.nil? && !JSON.parse(resp.body)['otp'].empty?)
@@ -121,7 +121,7 @@ class Tokped
       link: current_url,
       status: "SUCCESS"
     }
-    Faraday.put('https://98381ca9.ngrok.io/associatied_accounts/' + @ac_id) do |req|
+    Faraday.put('https://mooka-api.appspot.com/associatied_accounts/' + @ac_id) do |req|
       req.headers['Content-Type'] = 'application/x-www-form-urlencoded'
       req.body = URI.encode_www_form(data)
     end
